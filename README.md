@@ -44,7 +44,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-<table>
+<table align="center">
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
