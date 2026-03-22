@@ -49,7 +49,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,oracle" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 <br/><br/>
 
 </td>
@@ -65,7 +65,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracledbms" />
 <br/><br/>
 
 </td>
