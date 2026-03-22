@@ -5,7 +5,7 @@
   Hi, I'm <strong>ABISANKAR M</strong>
 </h1>
 
-<h3>Front-End Web Developer | React • Python </h3>
+<h3>Front-End Web Developer | • JavaScript React • Python  </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -49,7 +49,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 <br/><br/>
 
 </td>
