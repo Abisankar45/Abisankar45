@@ -74,13 +74,6 @@
     <h3>🧰 Tools & Platforms</h3>
     <!-- Skill Icons -->
 <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
-
-<!-- AI Tools -->
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
 </td>
 </tr>
 </table>
