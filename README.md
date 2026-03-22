@@ -5,7 +5,7 @@
   Hi, I'm <strong>ABISANKAR M</strong>
 </h1>
 
-<h3>Front-End Web Developer | • JavaScript React • Python  </h3>
+<h3>Front-End Web Developer | • JavaScript • React • Python  </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -65,14 +65,22 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracledbms" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=git,figma,vscode" />
+
+<!-- AI Tools -->
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 </td>
 </tr>
 </table>
@@ -87,12 +95,12 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=Abisankar45&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## ❤️ Support Me
+## ❤️ Hire Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/midhun_mike">
